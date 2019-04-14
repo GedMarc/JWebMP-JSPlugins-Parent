@@ -19,6 +19,16 @@
             <modules>
                 <module>EasingEffects</module>
                 <module>Globalize</module>
+                <module>FastClick</module>
+                <module>Modernizr</module>
+                <module>MomentJS</module>
+                <module>PaceLoader</module>
+                <module>ParticlesJS</module>
+                <module>PlusAsTab</module>
+                <module>SoftHistoryChange</module>
+                <module>SourcePrettify</module>
+                <module>SourcePrettifyDynamic</module>
+                <module>Bit6</module>
             </modules>
         </profile>
     </profiles>

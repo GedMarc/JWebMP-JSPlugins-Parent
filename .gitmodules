@@ -4,3 +4,33 @@
 [submodule "Globalize"]
 	path = Globalize
 	url = https://github.com/GedMarc/JWebMP-GlobalizePlugin.git
+[submodule "SourcePrettify"]
+	path = SourcePrettify
+	url = https://github.com/GedMarc/JWebMP-GoogleSourceCodePrettifyPlugin.git
+[submodule "SourcePrettifyDynamic"]
+	path = SourcePrettifyDynamic
+	url = https://github.com/GedMarc/JWebMP-DynamicSourceCodeViewerPlugin.git
+[submodule "FastClick"]
+	path = FastClick
+	url = https://github.com/GedMarc/JWebMP-Fastclick.git
+[submodule "PlusAsTab"]
+	path = PlusAsTab
+	url = https://github.com/GedMarc/JWebMP-JQueryPlusAsTabPlugin.git
+[submodule "MomentJS"]
+	path = MomentJS
+	url = https://github.com/GedMarc/JWebMP-MomentPlugin.git
+[submodule "PaceLoader"]
+	path = PaceLoader
+	url = https://github.com/GedMarc/JWebMP-PacePlugin.git
+[submodule "ParticlesJS"]
+	path = ParticlesJS
+	url = https://github.com/GedMarc/JWebMP-ParticlesJS.git
+[submodule "Modernizr"]
+	path = Modernizr
+	url = https://github.com/GedMarc/JWebMP-Modernizr.git
+[submodule "SoftHistoryChange"]
+	path = SoftHistoryChange
+	url = https://github.com/GedMarc/JWebMP-SoftHistoryChange.git
+[submodule "Bit6"]
+	path = Bit6
+	url = https://github.com/GedMarc/JWebMP-Bit6Platform.git
