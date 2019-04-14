@@ -1,36 +1,48 @@
 [submodule "EasingEffects"]
 	path = EasingEffects
 	url = https://github.com/GedMarc/JWebMP-JQEasingEffects.git
+	ignore=dirty
 [submodule "Globalize"]
 	path = Globalize
 	url = https://github.com/GedMarc/JWebMP-GlobalizePlugin.git
+	ignore=dirty
 [submodule "SourcePrettify"]
 	path = SourcePrettify
 	url = https://github.com/GedMarc/JWebMP-GoogleSourceCodePrettifyPlugin.git
+	ignore=dirty
 [submodule "SourcePrettifyDynamic"]
 	path = SourcePrettifyDynamic
 	url = https://github.com/GedMarc/JWebMP-DynamicSourceCodeViewerPlugin.git
+	ignore=dirty
 [submodule "FastClick"]
 	path = FastClick
 	url = https://github.com/GedMarc/JWebMP-Fastclick.git
+	ignore=dirty
 [submodule "PlusAsTab"]
 	path = PlusAsTab
 	url = https://github.com/GedMarc/JWebMP-JQueryPlusAsTabPlugin.git
+	ignore=dirty
 [submodule "MomentJS"]
 	path = MomentJS
 	url = https://github.com/GedMarc/JWebMP-MomentPlugin.git
+	ignore=dirty
 [submodule "PaceLoader"]
 	path = PaceLoader
 	url = https://github.com/GedMarc/JWebMP-PacePlugin.git
+	ignore=dirty
 [submodule "ParticlesJS"]
 	path = ParticlesJS
 	url = https://github.com/GedMarc/JWebMP-ParticlesJS.git
+	ignore=dirty
 [submodule "Modernizr"]
 	path = Modernizr
 	url = https://github.com/GedMarc/JWebMP-Modernizr.git
+	ignore=dirty
 [submodule "SoftHistoryChange"]
 	path = SoftHistoryChange
 	url = https://github.com/GedMarc/JWebMP-SoftHistoryChange.git
+	ignore=dirty
 [submodule "Bit6"]
 	path = Bit6
 	url = https://github.com/GedMarc/JWebMP-Bit6Platform.git
+	ignore=dirty
