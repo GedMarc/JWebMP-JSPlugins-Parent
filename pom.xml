@@ -13,24 +13,19 @@
     <name>JavaScript Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
-    <profiles>
-        <profile>
-            <id>devkit</id>
-            <modules>
-                <module>EasingEffects</module>
-                <module>Globalize</module>
-                <module>FastClick</module>
-                <module>Modernizr</module>
-                <module>MomentJS</module>
-                <module>PaceLoader</module>
-                <module>ParticlesJS</module>
-                <module>PlusAsTab</module>
-                <module>SoftHistoryChange</module>
-                <module>SourcePrettify</module>
-                <module>SourcePrettifyDynamic</module>
-                <module>Bit6</module>
-            </modules>
-        </profile>
-    </profiles>
+    <modules>
+        <module>EasingEffects</module>
+        <module>Globalize</module>
+        <module>FastClick</module>
+        <module>Modernizr</module>
+        <module>MomentJS</module>
+        <module>PaceLoader</module>
+        <module>ParticlesJS</module>
+        <module>PlusAsTab</module>
+        <module>SoftHistoryChange</module>
+        <module>SourcePrettify</module>
+        <module>SourcePrettifyDynamic</module>
+        <module>Bit6</module>
+    </modules>
 
 </project>
