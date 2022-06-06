@@ -20,7 +20,6 @@
             <modules>
 				<module>MomentJS</module>
 				<module>PlusAsTab</module>
-			
 			<!--
                 <module>EasingEffects</module>
                 <module>Globalize</module>
