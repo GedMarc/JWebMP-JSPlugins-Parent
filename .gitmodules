@@ -46,3 +46,6 @@
 	path = Bit6
 	url = https://github.com/GedMarc/JWebMP-Bit6Platform.git
 	ignore=dirty
+[submodule "Pintura"]
+	path = Pintura
+	url = https://github.com/GedMarc/JWebMP-Pintura.git
